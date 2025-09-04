@@ -7,7 +7,7 @@ This package is called: panda_trefoil_trajectory. The aim is to make a simulatio
 
 ## How to run
 
-Be sure to have installed ROS 1, MoveIt, and Gazebo. Then, follow the steps to create and build a catkin workspace by following the instructions that can be found on the [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) webpage. Download this package and move its folder into the src folder of the catkin workspace.
+Be sure to have installed ROS 1, MoveIt, RViz, Gazebo and [franka libraries fro Ros](https://frankarobotics.github.io/docs/franka_ros.html). Then, follow the steps to create and build a catkin workspace by following the instructions that can be found on the [ROS tutorials](https://wiki.ros.org/ROS/Tutorials) webpage. Download this package and move its folder into the src folder of the catkin workspace.
 
 ------------
 
