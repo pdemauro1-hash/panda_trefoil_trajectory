@@ -52,4 +52,4 @@ rostopic echo -b franka_execution.bag -p /franka_state_controller/franka_states 
 
 The scripts named: ``EE_pos.py`` and ``Joints_evolution.py`` analyze data written in the csv files created above. Do not modify manually those csv files. To see plots and data about the execution of the trajectory, run these python scripts.
 
-**Note:** it is not necessary to run these files using ``rosrun`` commands. Use any tool you prefere.
+**Note:** it is not necessary to run these files using ``rosrun`` commands. Use any tool you prefer.
